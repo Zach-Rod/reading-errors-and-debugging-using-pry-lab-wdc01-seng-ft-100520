@@ -3,8 +3,7 @@ require 'pry'
 
 def get_user_input
   gets.chomp
-  
-  puts 'hello'
+
 end
 
 def prompt_user
